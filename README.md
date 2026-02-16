@@ -4,14 +4,6 @@
 > 
 > <img src="hamza.jpg" width="200" alt="Hamza">
 
-## Demo
-
-See the form filler in action:
-
-![Demo](demo.gif)
-
-*The tool automatically fills out the GSL Student Survey form, navigating through pages and submitting responses.*
-
 # GSL Student Survey Form Filler
 
 Automated browser tool to fill the GSL Student Survey using Playwright and SurveyJS API.
