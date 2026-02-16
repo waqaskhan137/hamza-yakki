@@ -8,7 +8,9 @@
 
 See the form filler in action:
 
-https://github.com/user-attachments/assets/demo_video/demo.webm
+<video src="demo_video/demo.webm" width="100%" controls></video>
+
+*Video file is located in `demo_video/demo.webm` - download and view locally if the player doesn't work in your browser.*
 
 # GSL Student Survey Form Filler
 
