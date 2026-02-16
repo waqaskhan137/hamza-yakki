@@ -4,6 +4,12 @@
 > 
 > <img src="hamza.jpg" width="200" alt="Hamza">
 
+## Demo Video
+
+See the form filler in action:
+
+https://github.com/user-attachments/assets/demo_video/demo.webm
+
 # GSL Student Survey Form Filler
 
 Automated browser tool to fill the GSL Student Survey using Playwright and SurveyJS API.
