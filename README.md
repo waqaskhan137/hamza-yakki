@@ -1,3 +1,5 @@
+> **Note:** My friend Hamza asked me to build this to help him fill out survey forms so he can win a prize worth £1,000. He only promised me a chocolate for doing this. 🍫
+
 # GSL Student Survey Form Filler
 
 Automated browser tool to fill the GSL Student Survey using Playwright and SurveyJS API.
