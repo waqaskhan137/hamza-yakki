@@ -4,13 +4,13 @@
 > 
 > <img src="hamza.jpg" width="200" alt="Hamza">
 
-## Demo Video
+## Demo
 
 See the form filler in action:
 
-<video src="demo_video/demo.webm" width="100%" controls></video>
+![Demo](demo.gif)
 
-*Video file is located in `demo_video/demo.webm` - download and view locally if the player doesn't work in your browser.*
+*The tool automatically fills out the GSL Student Survey form, navigating through pages and submitting responses.*
 
 # GSL Student Survey Form Filler
 
