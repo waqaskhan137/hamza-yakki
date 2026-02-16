@@ -2,7 +2,7 @@
 > 
 > **This is Hamza:**
 > 
-> <img src="hamza.jpg" width="200" alt="Hamza" style="transform: rotate(90deg);">
+> <img src="hamza.jpg" width="200" alt="Hamza">
 
 # GSL Student Survey Form Filler
 
