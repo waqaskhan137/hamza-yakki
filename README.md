@@ -1,4 +1,8 @@
 > **Note:** My friend Hamza asked me to build this to help him fill out survey forms so he can win a prize worth £1,000. He only promised me a chocolate for doing this. 🍫
+> 
+> **This is Hamza:**
+> 
+> ![Hamza](hamza.jpg)
 
 # GSL Student Survey Form Filler
 
