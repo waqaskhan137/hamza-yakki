@@ -2,7 +2,7 @@
 > 
 > **This is Hamza:**
 > 
-> ![Hamza](hamza.jpg)
+> <img src="hamza.jpg" width="200" alt="Hamza">
 
 # GSL Student Survey Form Filler
 
